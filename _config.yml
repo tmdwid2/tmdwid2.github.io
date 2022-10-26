@@ -18,20 +18,8 @@ phone: 010-6247-8856
 # Dark Mode (true/false/never)
 darkmode: false
 
-# Social links
-# twitter_username: jekyllrb
 github_username:  tmdwid2
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
 instagram_username: _promotion_lee
-# linkedin_username: jekyll
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: jekyll
-# orcid_username: 0000-0000-0000-0000
-# googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
 # additional_links:
@@ -60,7 +48,7 @@ about_content: | # this will include new lines to allow paragraphs
     - algorithm
   more info
     - my favorite
-    Images ![moong_pic](https://user-images.githubusercontent.com/115774345/197950539-01601ccb-218f-4d0e-a0b6-200afda08335.jpg)
+    https://user-images.githubusercontent.com/115774345/197950539-01601ccb-218f-4d0e-a0b6-200afda08335.jpg
 
 content:
   - title: Education
