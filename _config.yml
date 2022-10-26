@@ -1,5 +1,5 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: https://tmdwid2.github.io/
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
@@ -31,8 +31,16 @@ about_content: | # this will include new lines to allow paragraphs
     - my favorite
     https://user-images.githubusercontent.com/115774345/197950539-01601ccb-218f-4d0e-a0b6-200afda08335.jpg
 
-# content:
-
+content:
+  - title: Education
+    layout: list
+    content:
+      - layout: top-right
+        title: Hallym Univ.
+        sub_title: **Major** BigData **Double Major** Contents-it
+        caption: 2020 ~
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification
 
 # Footer
 footer_show_references: true
