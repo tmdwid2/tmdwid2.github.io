@@ -21,9 +21,15 @@ instagram_username: @_promotion_lee
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: https://user-images.githubusercontent.com/115774345/197946725-fa6220d9-95d6-40ec-b421-ac5c06ab633d.jpg
+# about_profile_image: https://user-images.githubusercontent.com/115774345/197946725-fa6220d9-95d6-40ec-b421-ac5c06ab633d.jpg
 about_content: | # this will include new lines to allow paragraphs
-
+  confident field
+    - Linear algebra
+    - Java
+    - algorithm
+  more info
+    - my favorite
+    https://user-images.githubusercontent.com/115774345/197950539-01601ccb-218f-4d0e-a0b6-200afda08335.jpg
 
 content:
   - title: Education
