@@ -27,9 +27,6 @@ about_content: | # this will include new lines to allow paragraphs
     - Linear algebra
     - Java
     - algorithm
-  more info
-    - my favorite
-    https://user-images.githubusercontent.com/115774345/197950539-01601ccb-218f-4d0e-a0b6-200afda08335.jpg
 
 content:
   - title: Education
@@ -37,7 +34,7 @@ content:
     content:
       - layout: top-right
         title: Hallym Univ.
-        sub_title: **Major** BigData **Double Major** Contents-it
+        sub_title: Major: BigData Double Major: Contents-it
         caption: 2020 ~
         description: | # this will include new lines to allow paragraphs
           Description of qualification
