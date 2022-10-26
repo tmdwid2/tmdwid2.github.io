@@ -19,29 +19,12 @@ phone: 010-6247-8856
 darkmode: false
 
 github_username:  tmdwid2
-instagram_username: _promotion_lee
-
-# Additional icon links
-# additional_links:
-# - title: Link name
-#   icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#   url: Link url (eg. https://google.com)
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+instagram_username: @_promotion_lee
 
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: https://user-images.githubusercontent.com/115774345/197946725-fa6220d9-95d6-40ec-b421-ac5c06ab633d.jpg
 about_content: | # this will include new lines to allow paragraphs
-  # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-  # You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
   confident field
     - Linear algebra
     - Java
@@ -60,12 +43,6 @@ content:
         caption: 2020 ~
         description: | # this will include new lines to allow paragraphs
           Description of qualification
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true
