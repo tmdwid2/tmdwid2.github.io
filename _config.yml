@@ -12,8 +12,6 @@ email: tmdwid2@gmail.com
 # email_title: Email (Email title override)
 phone: 010-6247-8856
 # phone_title: Phone (Phone title override)
-# website: Your website (eg. https://google.com)(optional)
-# website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -25,13 +23,7 @@ instagram_username: @_promotion_lee
 # about_title: About Me (Use this to override about section title)
 about_profile_image: https://user-images.githubusercontent.com/115774345/197946725-fa6220d9-95d6-40ec-b421-ac5c06ab633d.jpg
 about_content: | # this will include new lines to allow paragraphs
-  confident field
-    - Linear algebra
-    - Java
-    - algorithm
-  more info
-    - my favorite
-    https://user-images.githubusercontent.com/115774345/197950539-01601ccb-218f-4d0e-a0b6-200afda08335.jpg
+
 
 content:
   - title: Education
